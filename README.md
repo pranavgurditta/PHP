@@ -1,5 +1,5 @@
 I have done the following questions and the number of the question signifies the problem that is solved. Generally every solution has a separate html and php file.
-
+You could see php.docx (an MS-Word file) to see the output alongwith the codes 
 
 
 1. Create a PHP page using functions for comparing three integers and print the largest number.
@@ -26,13 +26,7 @@ Expected Output: Thequick""brownfox
 
 12. Create a simple 'birthday countdown' script, the script will count the number of days between current day and birth day.
 
-13. Create a script to construct the following pattern, using nested for loop.
-*
-* *
-* * *
-* * * *
-* * * * *
-
+13. Create a script to construct a pattern of asterisks, first line contains one asterisk,second line contains two asterisk and so on.
 
 14. Write a simple PHP program to check that emails are valid.
 
