@@ -1,0 +1,9 @@
+<html>
+<body>
+<form method="post" action="question13_php.php">
+Enter the value of n for which pattern is required<input type="text" name="a">
+<br>
+<input type="submit">
+</form>
+</body>
+</html>

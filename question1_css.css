@@ -1,0 +1,46 @@
+
+*{
+	margin: 0 auto 0 auto;
+	text-align:left;
+}
+
+#container
+{
+
+}
+
+
+body
+{
+	color:blue;
+background-color:yellow;
+	}
+#header
+{
+	height:100px;
+	background-color:blue;
+	
+	}
+
+#header h1
+{
+	float:left;
+	padding:20px 0 0 20px;
+	color:black;	
+}
+#header h3
+{
+	float:right;
+	text-align:right;
+	padding:40px 20px 0 0;
+	
+	color:black;
+	}		
+	#menu li
+	{
+	
+		display:inline;
+	
+}
+
+
